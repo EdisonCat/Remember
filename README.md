@@ -7,17 +7,17 @@ Click add, update and delete buttons to perform operations on their todo items.
 
 ## Screenshots
 #### Before login
-![before login](https://github.com/EdisonCat/TodoApp/tree/screenshots/before_login.png)
+![before login](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/before_login.png)
 
 #### After login
-![after login](https://github.com/EdisonCat/TodoApp/tree/screenshots/after_login.png)
+![after login](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/after_login.png)
 
 #### Todo List
-![todo list](https://github.com/EdisonCat/TodoApp/tree/screenshots/todo_list.png)
+![todo list](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/todo_list.png)
 
 #### Adding todo
-![add todo](https://github.com/EdisonCat/TodoApp/tree/screenshots/add_todo1.png)
-![after adding todo](https://github.com/EdisonCat/TodoApp/tree/screenshots/add_todo2.png)
+![add todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/add_todo1.png)
+![after adding todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/add_todo2.png)
 
 #### Update todo
-![update todo](https://github.com/EdisonCat/TodoApp/tree/screenshots/update_todo.png)
+![update todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/update_todo.png)
