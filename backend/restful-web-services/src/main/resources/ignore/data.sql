@@ -1,0 +1,17 @@
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10001, 'edisoncat', 'do leetcode', sysdate(), false);
+--
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10002, 'edisoncat', 'interview', sysdate(), false);
+--
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10003, 'edisoncat', 'internship', sysdate(), false);
+--
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10004, 'bobbylin', 'do leetcode', sysdate(), false);
+--
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10005, 'bobbylin', 'interview', sysdate(), false);
+--
+-- insert into todo(id, username, description, target_date, is_done)
+-- values(10006, 'bobbylin', 'internship', sysdate(), false);
