@@ -16,7 +16,7 @@ Click add, update and delete buttons to perform operations on their todo items.
 ![todo list](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/todo_list.png)
 
 #### Adding todo
-![add todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/add_todo1.png)
+![add todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/add_todo.png)
 ![after adding todo](https://github.com/EdisonCat/TodoApp/blob/master/screenshots/add_todo2.png)
 
 #### Update todo
